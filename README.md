@@ -1,6 +1,5 @@
 # Helowwwwwwww
-![Deskripsi GIF](assets/cFD.gif)
-
+![Coding Girl](https://i.gifer.com/VoVr.gif)
 
 ---
 
