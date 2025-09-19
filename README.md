@@ -1,5 +1,5 @@
 # Helowwwwwwww
-<img src="https://i.gifer.com/cFD.gif" alt="Deskripsi GIF" width="400">
+![Deskripsi GIF](assets/cFD.gif)
 
 
 ---
