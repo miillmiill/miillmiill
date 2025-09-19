@@ -1,5 +1,6 @@
 # Helowwwwwwww
-![Coding Girl](https://i.gifer.com/VAHF.gif)
+<img src="https://i.gifer.com/cFD.gif" alt="Deskripsi GIF" width="400">
+
 
 ---
 
